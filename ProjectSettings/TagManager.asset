@@ -11,6 +11,13 @@ TagManager:
   - Use
   - Lock
   - Exit
+  - Item2
+  - Item3
+  - Moos1
+  - Moos2
+  - Baum
+  - Snow
+  - Stage3
   layers:
   - Default
   - TransparentFX
